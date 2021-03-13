@@ -6,14 +6,14 @@ Even for windows users, it's much faster to open pdf file than doc/docx file. Th
 | Spec number | Title | notes |
 | ----------- | ----------- |----------- |
 | 38.101 | NR; User Equipment (UE) radio transmission and reception | <span style="color:red">SPECIFICATION WITHDRAWN</span> |
-| [TS 38.101-1](https://www.3gpp.org/DynaReport/38101-1.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38101/pdf/38101-1) | NR; User Equipment (UE) radio transmission and reception; Part 1: Range 1 Standalone |
-| [TS 38.101-2](https://www.3gpp.org/DynaReport/38101-2.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38101/pdf/38101-2) | NR; User Equipment (UE) radio transmission and reception; Part 2: Range 2 Standalone	|
-| [TS 38.101-3](https://www.3gpp.org/DynaReport/38101-3.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38101/pdf/38101-3) | NR; User Equipment (UE) radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios |
-| [TS 38.101-4](https://www.3gpp.org/DynaReport/38101-4.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38101/pdf/38101-4) | NR; User Equipment (UE) radio transmission and reception; Part 4: Performance requirements |
-| [TS 38.104](https://www.3gpp.org/DynaReport/38104.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38104/pdf) | NR; Base Station (BS) radio transmission and reception |
-| [TS 38.113](https://www.3gpp.org/DynaReport/38113.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38104/pdf) | NR; Base Station (BS) ElectroMagnetic Compatibility (EMC) |
-| [TS 38.124](https://www.3gpp.org/DynaReport/38124.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38124/pdf) | NR; Electromagnetic compatibility (EMC) requirements for mobile terminals and ancillary equipment |
-| [TS 38.133](https://www.3gpp.org/DynaReport/38133.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38133/pdf) | NR; Requirements for support of radio resource management |
+| [TS 38.101-1](https://www.3gpp.org/DynaReport/38101-1.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38101/pdf/38101-1) | NR; User Equipment (UE) radio transmission and reception; Part 1: Range 1 Standalone |
+| [TS 38.101-2](https://www.3gpp.org/DynaReport/38101-2.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38101/pdf/38101-2) | NR; User Equipment (UE) radio transmission and reception; Part 2: Range 2 Standalone	|
+| [TS 38.101-3](https://www.3gpp.org/DynaReport/38101-3.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38101/pdf/38101-3) | NR; User Equipment (UE) radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios |
+| [TS 38.101-4](https://www.3gpp.org/DynaReport/38101-4.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38101/pdf/38101-4) | NR; User Equipment (UE) radio transmission and reception; Part 4: Performance requirements |
+| [TS 38.104](https://www.3gpp.org/DynaReport/38104.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38104/pdf) | NR; Base Station (BS) radio transmission and reception |
+| [TS 38.113](https://www.3gpp.org/DynaReport/38113.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38104/pdf) | NR; Base Station (BS) ElectroMagnetic Compatibility (EMC) |
+| [TS 38.124](https://www.3gpp.org/DynaReport/38124.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38124/pdf) | NR; Electromagnetic compatibility (EMC) requirements for mobile terminals and ancillary equipment |
+| [TS 38.133](https://www.3gpp.org/DynaReport/38133.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38133/pdf) | NR; Requirements for support of radio resource management |
 | TS 38.141 | NR; Base Station (BS) conformance testing |	<span style="color:red">SPECIFICATION WITHDRAWN</span> |
 | [TS 38.141-1](https://www.3gpp.org/DynaReport/38141-1.htm) | NR; Base Station (BS) conformance testing Part 1: Conducted conformance testing |
 | [TS 38.141-2](https://www.3gpp.org/DynaReport/38141-2.htm) | NR; Base Station (BS) conformance testing Part 2: Radiated conformance testing |
@@ -22,23 +22,23 @@ Even for windows users, it's much faster to open pdf file than doc/docx file. Th
 | TS 38.173 | TDD operating band in Band n48 | <span style="color:red">SPECIFICATION WITHDRAWN</span> |
 | [TS 38.174](https://www.3gpp.org/DynaReport/38174.htm) | NR; Integrated Access and Backhaul (IAB) radio transmission and reception |
 | [TS 38.175](https://www.3gpp.org/DynaReport/38175.htm) | NR; Integrated Access and Backhaul (IAB) Electromagnetic Compatibility (EMC) |
-| [TS 38.201](https://www.3gpp.org/DynaReport/38201.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38201/pdf) | NR; Physical layer; General description |
-| [TS 38.202](https://www.3gpp.org/DynaReport/38202.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38202/pdf) | NR; Services provided by the physical layer |
-| [TS 38.211](https://www.3gpp.org/DynaReport/38211.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38211/pdf) | NR; Physical channels and modulation |
-| [TS 38.212](https://www.3gpp.org/DynaReport/38212.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38212/pdf) | NR; Multiplexing and channel coding |
-| [TS 38.213](https://www.3gpp.org/DynaReport/38213.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38213/pdf) | NR; Physical layer procedures for control |
-| [TS 38.214](https://www.3gpp.org/DynaReport/38214.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38214/pdf) | NR; Physical layer procedures for data |
-| [TS 38.215](https://www.3gpp.org/DynaReport/38215.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38215/pdf) | NR; Physical layer measurements |
-| [TS 38.300](https://www.3gpp.org/DynaReport/38300.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38300/pdf) | NR; NR and NG-RAN Overall description; Stage-2 |
-| [TS 38.304](https://www.3gpp.org/DynaReport/38304.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38304/pdf) | NR; User Equipment (UE) procedures in idle mode and in RRC Inactive state |
-| [TS 38.305](https://www.3gpp.org/DynaReport/38305.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38305/pdf) | NG Radio Access Network (NG-RAN); Stage 2 functional specification of User Equipment (UE) positioning in NG-RAN |
-| [TS 38.306](https://www.3gpp.org/DynaReport/38306.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38306/pdf) | NR; User Equipment (UE) radio access capabilities |
-| [TS 38.307](https://www.3gpp.org/DynaReport/38307.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38307/pdf) | NR; Requirements on User Equipments (UEs) supporting a release-independent frequency band |
-| [TS 38.314](https://www.3gpp.org/DynaReport/38314.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38314/pdf) | NR; Layer 2 measurements |
-| [TS 38.321](https://www.3gpp.org/DynaReport/38321.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38321/pdf) | NR; Medium Access Control (MAC) protocol specification |
-| [TS 38.322](https://www.3gpp.org/DynaReport/38322.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38322/pdf) | NR; Radio Link Control (RLC) protocol specification |
-| [TS 38.323](https://www.3gpp.org/DynaReport/38323.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38323/pdf) | NR; Packet Data Convergence Protocol (PDCP) specification |
-| [TS 38.331](https://www.3gpp.org/DynaReport/38331.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38331/pdf) | NR; Radio Resource Control (RRC); Protocol specification |
+| [TS 38.201](https://www.3gpp.org/DynaReport/38201.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38201/pdf) | NR; Physical layer; General description |
+| [TS 38.202](https://www.3gpp.org/DynaReport/38202.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38202/pdf) | NR; Services provided by the physical layer |
+| [TS 38.211](https://www.3gpp.org/DynaReport/38211.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38211/pdf) | NR; Physical channels and modulation |
+| [TS 38.212](https://www.3gpp.org/DynaReport/38212.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38212/pdf) | NR; Multiplexing and channel coding |
+| [TS 38.213](https://www.3gpp.org/DynaReport/38213.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38213/pdf) | NR; Physical layer procedures for control |
+| [TS 38.214](https://www.3gpp.org/DynaReport/38214.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38214/pdf) | NR; Physical layer procedures for data |
+| [TS 38.215](https://www.3gpp.org/DynaReport/38215.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38215/pdf) | NR; Physical layer measurements |
+| [TS 38.300](https://www.3gpp.org/DynaReport/38300.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38300/pdf) | NR; NR and NG-RAN Overall description; Stage-2 |
+| [TS 38.304](https://www.3gpp.org/DynaReport/38304.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38304/pdf) | NR; User Equipment (UE) procedures in idle mode and in RRC Inactive state |
+| [TS 38.305](https://www.3gpp.org/DynaReport/38305.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38305/pdf) | NG Radio Access Network (NG-RAN); Stage 2 functional specification of User Equipment (UE) positioning in NG-RAN |
+| [TS 38.306](https://www.3gpp.org/DynaReport/38306.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38306/pdf) | NR; User Equipment (UE) radio access capabilities |
+| [TS 38.307](https://www.3gpp.org/DynaReport/38307.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38307/pdf) | NR; Requirements on User Equipments (UEs) supporting a release-independent frequency band |
+| [TS 38.314](https://www.3gpp.org/DynaReport/38314.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38314/pdf) | NR; Layer 2 measurements |
+| [TS 38.321](https://www.3gpp.org/DynaReport/38321.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38321/pdf) | NR; Medium Access Control (MAC) protocol specification |
+| [TS 38.322](https://www.3gpp.org/DynaReport/38322.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38322/pdf) | NR; Radio Link Control (RLC) protocol specification |
+| [TS 38.323](https://www.3gpp.org/DynaReport/38323.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38323/pdf) | NR; Packet Data Convergence Protocol (PDCP) specification |
+| [TS 38.331](https://www.3gpp.org/DynaReport/38331.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38331/pdf) | NR; Radio Resource Control (RRC); Protocol specification |
 | [TS 38.340](https://www.3gpp.org/DynaReport/38340.htm) | NR; Backhaul Adaptation Protocol (BAP) specification |
 | [TS 38.401](https://www.3gpp.org/DynaReport/38401.htm) | NG-RAN; Architecture description |
 | [TS 38.410](https://www.3gpp.org/DynaReport/38410.htm) | NG-RAN; NG general aspects and principles |
@@ -71,7 +71,7 @@ Even for windows users, it's much faster to open pdf file than doc/docx file. Th
 | [TS 38.521-2](https://www.3gpp.org/DynaReport/38521-2.htm) | NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 2: Range 2 standalone |
 | [TS 38.521-3](https://www.3gpp.org/DynaReport/38521-3.htm) | NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 3: Range 1 and Range 2 Interworking operation with other radios |
 | [TS 38.521-4](https://www.3gpp.org/DynaReport/38521-4.htm) | NR; User Equipment (UE) conformance specification; Radio transmission and reception; Part 4: Performance |
-| [TS 38.522](https://www.3gpp.org/DynaReport/38522.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38522/pdf) | NR; User Equipment (UE) conformance specification; Applicability of radio transmission, radio reception and radio resource management test cases |
+| [TS 38.522](https://www.3gpp.org/DynaReport/38522.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38522/pdf) | NR; User Equipment (UE) conformance specification; Applicability of radio transmission, radio reception and radio resource management test cases |
 | [TS 38.523-1](https://www.3gpp.org/DynaReport/38523-1.htm) | 5GS; User Equipment (UE) conformance specification; Part 1: Protocol |
 | [TS 38.523-2](https://www.3gpp.org/DynaReport/38523-2.htm) | 5GS; User Equipment (UE) conformance specification; Part 2: Applicability of protocol test cases |
 | [TS 38.523-3](https://www.3gpp.org/DynaReport/38523-3.htm) | 5GS; User Equipment (UE) conformance specification; Part 3: Protocol Test Suites |
@@ -93,7 +93,7 @@ Even for windows users, it's much faster to open pdf file than doc/docx file. Th
 | [TR 38.803](https://www.3gpp.org/DynaReport/38803.htm) | study on new radio access technology: Radio Frequency (RF) and co-existence aspects |
 | [TR 38.804](https://www.3gpp.org/DynaReport/38804.htm) | study on new radio access technology Radio interface protocol aspects |
 | [TR 38.805](https://www.3gpp.org/DynaReport/38805.htm) | study on new radio access technology; 60 GHz unlicensed spectrum |
-| [TR 38.806](https://www.3gpp.org/DynaReport/38806.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38806/pdf) | study of separation of NR Control Plane (CP) and User Plane (UP) for split option 2 |
+| [TR 38.806](https://www.3gpp.org/DynaReport/38806.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38806/pdf) | study of separation of NR Control Plane (CP) and User Plane (UP) for split option 2 |
 | [TR 38.807](https://www.3gpp.org/DynaReport/38807.htm) | study on requirements for NR beyond 52.6 GHz |
 | [TR 38.808](https://www.3gpp.org/DynaReport/38808.htm) | study on supporting NR from 52.6 GHz to 71 GHz |
 | [TR 38.809](https://www.3gpp.org/DynaReport/38809.htm) | NR; Background for integrated access and backhaul radio transmission and reception |
@@ -110,9 +110,9 @@ Even for windows users, it's much faster to open pdf file than doc/docx file. Th
 | [TR 38.819](https://www.3gpp.org/DynaReport/38819.htm) | LTE Band 65 for NR (n65) |
 | [TR 38.820](https://www.3gpp.org/DynaReport/38820.htm) | study on the 7 to 24 GHz frequency range for NR |
 | [TR 38.821](https://www.3gpp.org/DynaReport/38821.htm) | Solutions for NR to support Non-Terrestrial Networks (NTN) |
-| [TR 38.822](https://www.3gpp.org/DynaReport/38822.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38822/pdf) | NR; User Equipment (UE) feature list |
+| [TR 38.822](https://www.3gpp.org/DynaReport/38822.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38822/pdf) | NR; User Equipment (UE) feature list |
 | [TR 38.823](https://www.3gpp.org/DynaReport/38823.htm) | study of further enhancement for disaggregated gNB |
-| [TR 38.824](https://www.3gpp.org/DynaReport/38824.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38824/pdf) | study on physical layer enhancements for NR ultra-reliable and low latency case (URLLC) |
+| [TR 38.824](https://www.3gpp.org/DynaReport/38824.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38824/pdf) | study on physical layer enhancements for NR ultra-reliable and low latency case (URLLC) |
 | [TR 38.825](https://www.3gpp.org/DynaReport/38825.htm) | study on NR industrial Internet of Things (IoT) |
 | [TR 38.826](https://www.3gpp.org/DynaReport/38826.htm) | study on evaluation for 2 receiver exception in Rel-15 vehicle mounted User Equipment (UE) for NR |
 | [TR 38.827](https://www.3gpp.org/DynaReport/38827.htm) | study on radiated metrics and test methodology for the verification of multi-antenna reception performance of NR User Equipment (UE) |
@@ -150,9 +150,8 @@ Even for windows users, it's much faster to open pdf file than doc/docx file. Th
 | [TR 38.901](https://www.3gpp.org/DynaReport/38901.htm) | study on channel model for frequencies from 0.5 to 100 GHz |
 | [TR 38.903](https://www.3gpp.org/DynaReport/38903.htm) | NR; Derivation of test tolerances and measurement uncertainty for User Equipment (UE) conformance test cases |
 | [TR 38.905](https://www.3gpp.org/DynaReport/38905.htm) | NR; Derivation of test points for radio transmission and reception User Equipment (UE) conformance test cases |
-| [TR 38.912](https://www.3gpp.org/DynaReport/38912.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38912/pdf) | study on New Radio (NR) access technology |
-| [TR 38.913](https://www.3gpp.org/DynaReport/38913.htm) [<span style="color:lightgreen">pdf</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38913/pdf) | study on scenarios and requirements for next generation access technologies |
+| [TR 38.912](https://www.3gpp.org/DynaReport/38912.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38912/pdf) | study on New Radio (NR) access technology |
+| [TR 38.913](https://www.3gpp.org/DynaReport/38913.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38913/pdf) | study on scenarios and requirements for next generation access technologies |
 | [TR 38.921](https://www.3gpp.org/DynaReport/38921.htm) | study on International Mobile Telecommunications (IMT) parameters for 6.425 - 7.025 GHz, 7.025 - 7.125 GHz and 10.0 - 10.5 GHz |
-|
 
 # LTE spec (36 series)
