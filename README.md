@@ -2,7 +2,7 @@ create this repo because the 3GPP specifications are in doc/docx format. It's no
 
 Even for windows users, it's much faster to open pdf file than doc/docx file. This is especially the case when file size is big.
 
-# NR spec (38 series)
+# [NR spec (38 series)](https://www.3gpp.org/DynaReport/38-series.htm)
 | Spec number | Title | notes |
 | ----------- | ----------- |----------- |
 | 38.101 | NR; User Equipment (UE) radio transmission and reception | <span style="color:red">SPECIFICATION WITHDRAWN</span> |
