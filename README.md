@@ -155,3 +155,12 @@ Even for windows users, it's much faster to open pdf file than doc/docx file. Th
 | [TR 38.921](https://www.3gpp.org/DynaReport/38921.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/nr/38921/pdf) | study on International Mobile Telecommunications (IMT) parameters for 6.425 - 7.025 GHz, 7.025 - 7.125 GHz and 10.0 - 10.5 GHz |
 
 # LTE spec (36 series)
+
+# [21 series](https://www.3gpp.org/DynaReport/21-series.htm)
+| Spec number | Title | notes |
+| ----------- | ----------- |----------- |
+| [TR 21.902](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=556) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/21/21902/pdf) | Evolution of 3GPP system |
+| [TR 21.905](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=558) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/21/21905/pdf) | Vocabulary for 3GPP Specifications |
+| [TR 21.914](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3179) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/21/21914/pdf) | Release description; Release 14 |
+| [TR 21.915](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3389) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/21/21915/pdf) | Release description; Release 15 |
+| [TR 21.916](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3493) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/21/21916/pdf) | Release description; Release 16 |
