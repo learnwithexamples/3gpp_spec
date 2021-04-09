@@ -164,3 +164,14 @@ Even for windows users, it's much faster to open pdf file than doc/docx file. Th
 | [TR 21.914](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3179) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/21/21914/pdf) | Release description; Release 14 |
 | [TR 21.915](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3389) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/21/21915/pdf) | Release description; Release 15 |
 | [TR 21.916](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3493) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/21/21916/pdf) | Release description; Release 16 |
+
+# [26 series](https://www.3gpp.org/DynaReport/26-series.htm)
+| Spec number | Title | notes |
+| ----------- | ----------- |----------- |
+| [TR 26.118](https://www.3gpp.org/DynaReport/26118.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/26/26118/pdf) | Virtual Reality (VR) profiles for streaming applications |
+| [TR 26.818](https://www.3gpp.org/DynaReport/26818.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/26/26818/pdf) | Virtual Reality (VR) streaming audio; Characterization test results |
+| [TR 26.918](https://www.3gpp.org/DynaReport/26918.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/26/26918/pdf) | Virtual Reality (VR) media services over 3GPP |
+| [TR 26.928](https://www.3gpp.org/DynaReport/26928.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/26/26928/pdf) | Extended Reality (XR) in 5G |
+| [TR 26.929](https://www.3gpp.org/DynaReport/26929.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/26/26929/pdf) | QoE parameters and metrics relevant to the Virtual Reality (VR) user experience |
+| [TR 26.998](https://www.3gpp.org/DynaReport/26998.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/26/26998/pdf) | Support of 5G glass-type Augmented Reality / Mixed Reality (AR/MR) devices |
+| [TR 26.999](https://www.3gpp.org/DynaReport/26999.htm) [<span style="color:lightgreen">[pdf]</span>](https://github.com/learnwithexamples/3gpp_spec/tree/master/26/26999/pdf) | Virtual Reality (VR) streaming interoperability and characterization |
